@@ -1,0 +1,46 @@
+{
+    "projectsList": [
+        "Jabong website",
+        "Myntra website",
+        "Flipkart website",
+        "Amazon website",
+        "Facebook website"
+    ],
+    "taskList": [
+            {
+                "taskName": "Homepage for delivery of cakes",
+                "projectName": "Cake website",
+                "formattedTime":"09:00"
+            },
+            {
+                "taskName": "contacts page for delivery of cakes",
+                "projectName": "Cake website",
+                "formattedTime":"03:30"
+            },
+            {
+                "taskName": "checkout page for Mobile phone site",
+                "projectName": "Mobile phone website",
+                "formattedTime":"01:00"
+            }
+        ],
+     "users": [
+        {
+            "name": "test1",
+            "mail": "test1@gmail.com",
+            "password": "pass1",
+            "taskList": []
+        },
+        {
+             "name": "test2",
+             "mail": "test2@gmail.com",
+             "password": "pass2",
+             "taskList": []
+         },
+         {
+            "name": "test3",
+            "mail": "test3@gmail.com",
+            "password": "pass3",
+            "taskList": []
+        }
+     ]   
+}
