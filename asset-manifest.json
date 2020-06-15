@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/progressApp/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/progressApp/static/js/main.b7f8df57.chunk.js",
+    "main.js.map": "/progressApp/static/js/main.b7f8df57.chunk.js.map",
+    "runtime-main.js": "/progressApp/static/js/runtime-main.81c6c3c5.js",
+    "runtime-main.js.map": "/progressApp/static/js/runtime-main.81c6c3c5.js.map",
+    "static/css/2.1b1c968b.chunk.css": "/progressApp/static/css/2.1b1c968b.chunk.css",
+    "static/js/2.3b3b3c5d.chunk.js": "/progressApp/static/js/2.3b3b3c5d.chunk.js",
+    "static/js/2.3b3b3c5d.chunk.js.map": "/progressApp/static/js/2.3b3b3c5d.chunk.js.map",
+    "index.html": "/progressApp/index.html",
+    "precache-manifest.62c2a882c83d38125cf8eaa86d403bb2.js": "/progressApp/precache-manifest.62c2a882c83d38125cf8eaa86d403bb2.js",
+    "service-worker.js": "/progressApp/service-worker.js",
+    "static/css/2.1b1c968b.chunk.css.map": "/progressApp/static/css/2.1b1c968b.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/progressApp/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.3b3b3c5d.chunk.js.LICENSE.txt": "/progressApp/static/js/2.3b3b3c5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81c6c3c5.js",
+    "static/css/2.1b1c968b.chunk.css",
+    "static/js/2.3b3b3c5d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b7f8df57.chunk.js"
+  ]
+}
