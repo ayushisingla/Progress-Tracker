@@ -1,3 +1,27 @@
+Test Cases for login:
+(or can find in data.json file)
+
+        {
+            "name": "test1",
+            "mail": "test1@gmail.com",
+            "password": "pass1"
+        },
+        
+        {
+             "name": "test2",
+             "mail": "test2@gmail.com",
+             "password": "pass2"
+         },
+         
+         {
+            "name": "test3",
+            "mail": "test3@gmail.com",
+            "password": "pass3"
+          }
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
