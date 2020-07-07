@@ -21,6 +21,10 @@ Test Cases for login:
 
 
 
+![Screenshot from 2020-07-07 17-20-32](https://user-images.githubusercontent.com/62255672/86777411-bc892580-c076-11ea-80e7-fa973066084a.png)
+![Screenshot from 2020-07-07 17-20-35](https://user-images.githubusercontent.com/62255672/86777421-bf841600-c076-11ea-95a0-79a9ad0cdea7.png)
+![Screenshot from 2020-07-07 17-21-08](https://user-images.githubusercontent.com/62255672/86777426-c1e67000-c076-11ea-80e1-7b24acfbfd51.png)
+![Screenshot from 2020-07-07 17-21-10](https://user-images.githubusercontent.com/62255672/86777433-c4e16080-c076-11ea-88dd-b3e09fd1ff0d.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
